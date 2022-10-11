@@ -6,5 +6,5 @@ using namespace std;
 void function::printMessage()
 {
     int res = 2 + 2;
-    cout << "Result = " + res;
+    cout << "Result = " << res;
 }
